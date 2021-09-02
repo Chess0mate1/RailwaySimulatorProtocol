@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RailwaySimulatorProtocol_Db
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoProtocol", "..\Chess0mate1\ExchangeProtocol_of_CP_and_CIG\DemoProtocol\DemoProtocol.csproj", "{76C99914-3175-42C2-BB65-EBB4A895DDC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailwaySimulatorProtocol_Connection", "RailwaySimulatorProtocol_Connection\RailwaySimulatorProtocol_Connection.csproj", "{84162260-5EC4-459D-8650-2155D5C34C30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{76C99914-3175-42C2-BB65-EBB4A895DDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76C99914-3175-42C2-BB65-EBB4A895DDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76C99914-3175-42C2-BB65-EBB4A895DDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84162260-5EC4-459D-8650-2155D5C34C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84162260-5EC4-459D-8650-2155D5C34C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84162260-5EC4-459D-8650-2155D5C34C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84162260-5EC4-459D-8650-2155D5C34C30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
