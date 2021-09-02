@@ -1,0 +1,25 @@
+vertices      x          y          z
+   0      1568.560230 -1080.049074 41.572400
+  
+ 
+rails  point1 point2    r1    r2    sw1   sw2  rLeft rRight way  ждпуть
+
+sorted rails:
+rails   point1  point2     r1     r2    sw1   sw2  rLeft rRight way  ждпуть
+    0        0       1       -      1     -     -      -      1  undefinedDirection     1      2
+  
+
+switches ждномер rail1 left right                                        trunk branch
+  0     501      32   185    33     227.451942  -131.203575    42.232400    33    185  symmetricalType
+    chain(0.741):  32 
+    chain(16.775):  185  186  187  188  189  190  191 
+    chain(16.775):  33  34  35  36  37  38  39 
+  
+
+semaphores
+nom   name  vertex    x         y         z         _y
+  0    G1  33       227.451713 -131.203903 42.232400 -131.203903
+
+retarders
+no  ждномер  rail piotr_no
+   0     1     57    1
