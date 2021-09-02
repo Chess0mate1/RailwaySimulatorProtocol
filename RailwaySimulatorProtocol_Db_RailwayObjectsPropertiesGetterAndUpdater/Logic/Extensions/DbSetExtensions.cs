@@ -4,7 +4,7 @@ using static System.Math;
 
 using Microsoft.EntityFrameworkCore;
 
-namespace DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Extensions
+namespace RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Extensions
 {
     internal static class DbSetExtensions
     {

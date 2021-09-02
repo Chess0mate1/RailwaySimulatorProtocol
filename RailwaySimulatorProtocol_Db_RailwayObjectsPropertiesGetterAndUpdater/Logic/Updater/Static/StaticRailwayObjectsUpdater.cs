@@ -1,6 +1,6 @@
-﻿using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Generartor.Static;
+﻿using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Generartor.Static;
 
-namespace DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Updater.Static
+namespace RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Updater.Static
 {
     internal abstract class StaticRailwayObjectsUpdater : RailwayObjectsUpdater
     {

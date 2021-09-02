@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 
-namespace DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Line
+namespace RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Line
 {
     internal class LineElements : IEnumerable<string>
     {

@@ -1,6 +1,6 @@
-﻿using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Line;
+﻿using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Line;
 
-namespace DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.DataReader
+namespace RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.DataReader
 {
     internal enum AppConfigKey
     {

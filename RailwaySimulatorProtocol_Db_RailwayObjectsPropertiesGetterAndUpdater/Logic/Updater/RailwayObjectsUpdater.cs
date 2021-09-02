@@ -1,6 +1,6 @@
-﻿using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Context;
+﻿using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Context;
 
-namespace DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Updater
+namespace RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Updater
 {
     internal abstract class RailwayObjectsUpdater
     {

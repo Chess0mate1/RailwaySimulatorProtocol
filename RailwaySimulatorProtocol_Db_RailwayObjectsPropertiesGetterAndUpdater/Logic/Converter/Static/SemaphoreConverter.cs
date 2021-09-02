@@ -1,7 +1,7 @@
-﻿using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Interface.RailwayObjects.Static;
-using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Line;
+﻿using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Interface.RailwayObjects.Static;
+using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Line;
 
-namespace DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Converter.Static
+namespace RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Converter.Static
 {
     internal class SemaphoreConverter : RailwayObjectConverter<Semaphore>
     {

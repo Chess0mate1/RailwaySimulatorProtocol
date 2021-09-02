@@ -1,6 +1,6 @@
-﻿using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Extensions;
+﻿using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Extensions;
 
-namespace DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Updater.Static.Statics
+namespace RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Updater.Static.Statics
 {
     internal class RailsUpdater : StaticRailwayObjectsUpdater
     {

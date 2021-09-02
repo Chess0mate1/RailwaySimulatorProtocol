@@ -1,9 +1,9 @@
 ﻿using System.Globalization;
 
-using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Interface.RailwayObjects;
-using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Line;
+using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Interface.RailwayObjects;
+using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Line;
 
-namespace DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Converter
+namespace RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Converter
 {
     internal abstract class RailwayObjectConverter<T>
         where T : RailwayObject

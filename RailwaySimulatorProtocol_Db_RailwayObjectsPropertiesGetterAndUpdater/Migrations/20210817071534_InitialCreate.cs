@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Migrations
+namespace RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Migrations
 {
     public partial class InitialCreate : Migration
     {

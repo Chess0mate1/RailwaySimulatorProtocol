@@ -1,4 +1,4 @@
-﻿namespace DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Interface.RailwayObjects.Static
+﻿namespace RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Interface.RailwayObjects.Static
 {
     [ToString]
     public class Semaphore : RailwayObject

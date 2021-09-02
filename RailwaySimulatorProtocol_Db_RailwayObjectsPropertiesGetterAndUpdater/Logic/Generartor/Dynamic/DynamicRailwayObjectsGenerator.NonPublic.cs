@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
 
-using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Interface.RailwayObjects.Dynamic;
-using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Converter.Dynamic;
-using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.DataReader.Word;
-using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Line;
+using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Interface.RailwayObjects.Dynamic;
+using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Converter.Dynamic;
+using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.DataReader.Word;
+using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Line;
 
-namespace DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Generartor.Dynamic
+namespace RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Generartor.Dynamic
 {
     internal partial class DynamicRailwayObjectsGenerator
     {

@@ -1,4 +1,4 @@
-﻿namespace DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Interface.RailwayObjects.Dynamic
+﻿namespace RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Interface.RailwayObjects.Dynamic
 {
     [ToString]
     public class Wagon : RailwayObject

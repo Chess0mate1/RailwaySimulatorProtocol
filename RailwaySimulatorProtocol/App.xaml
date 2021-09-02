@@ -1,7 +1,7 @@
-﻿<Application x:Class="RailwaySimulatorProtocol.App"
+﻿<Application x:Class="RailwaySimulatorProtocol_UI.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:RailwaySimulatorProtocol"
+             xmlns:local="clr-namespace:RailwaySimulatorProtocol_UI"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

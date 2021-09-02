@@ -2,12 +2,12 @@
 using System.Configuration;
 using System.Linq;
 
-using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Line;
+using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Line;
 
 using DocumentFormat.OpenXml.Packaging;
 using DocumentFormat.OpenXml.Wordprocessing;
 
-namespace DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.DataReader.Word
+namespace RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.DataReader.Word
 {
     internal class DocxFileDataReader : FileDataReader
     {

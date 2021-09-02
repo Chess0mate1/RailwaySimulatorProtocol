@@ -1,6 +1,6 @@
-﻿using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.DataReader;
+﻿using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.DataReader;
 
-namespace DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Generartor
+namespace RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Generartor
 {
     internal abstract class RailwayObjectsGenerator
     {

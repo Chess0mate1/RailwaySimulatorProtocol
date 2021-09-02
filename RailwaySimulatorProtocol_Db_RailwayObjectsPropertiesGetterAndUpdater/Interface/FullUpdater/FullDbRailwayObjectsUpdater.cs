@@ -1,9 +1,9 @@
 ﻿using System.Threading.Tasks;
 
-using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Updater.Dynamic.Dynamics;
-using DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Updater.Static.Statics;
+using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Updater.Dynamic.Dynamics;
+using RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Logic.Updater.Static.Statics;
 
-namespace DemoProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Interface.FullUpdater
+namespace RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.Interface.FullUpdater
 {
     public class FullDbRailwayObjectsUpdater
     {
