@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31606.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RailwaySimulatorProtocol", "RailwaySimulatorProtocol\RailwaySimulatorProtocol.csproj", "{34076CF0-7B73-4981-9A07-58D89A4351B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RailwaySimulatorProtocol_UI", "RailwaySimulatorProtocol\RailwaySimulatorProtocol_UI.csproj", "{34076CF0-7B73-4981-9A07-58D89A4351B2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater", "RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater\RailwaySimulatorProtocol_Db_RailwayObjectsPropertiesGetterAndUpdater.csproj", "{3A5C7A7F-48EF-4287-9DF4-0FED3CDCD991}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoProtocol", "..\Chess0mate1\ExchangeProtocol_of_CP_and_CIG\DemoProtocol\DemoProtocol.csproj", "{76C99914-3175-42C2-BB65-EBB4A895DDC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3A5C7A7F-48EF-4287-9DF4-0FED3CDCD991}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A5C7A7F-48EF-4287-9DF4-0FED3CDCD991}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A5C7A7F-48EF-4287-9DF4-0FED3CDCD991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C99914-3175-42C2-BB65-EBB4A895DDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C99914-3175-42C2-BB65-EBB4A895DDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C99914-3175-42C2-BB65-EBB4A895DDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C99914-3175-42C2-BB65-EBB4A895DDC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
