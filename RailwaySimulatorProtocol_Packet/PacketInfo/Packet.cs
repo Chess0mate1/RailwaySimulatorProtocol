@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-using RailwaySimulatorProtocol_Packet.Patterns;
+using RailwaySimulatorProtocol_Packet.Patterns.Observer;
 using RailwaySimulatorProtocol_Packet.Records;
 using RailwaySimulatorProtocol_Packet.Records.InformationPart.Format;
 using RailwaySimulatorProtocol_Packet.Records.InformationPart.Objects;

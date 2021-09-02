@@ -1,4 +1,5 @@
-﻿using RailwaySimulatorProtocol_Packet.Connection;
+﻿using RailwaySimulatorProtocol_Connection;
+
 using RailwaySimulatorProtocol_Packet.PacketInfo;
 
 namespace RailwaySimulatorProtocol_Packet.PacketSending
@@ -14,7 +15,7 @@ namespace RailwaySimulatorProtocol_Packet.PacketSending
         /// <param name="packet"><paramref name="Packet"/> for sending</param>
         public static void Send(Packet packet)
         {
-            _ = ConnectionService.SendMessage(
+            _ = Connection.SendMessage(
                 packet.Bytes.ToArray()
             );
         }
