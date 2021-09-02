@@ -1,10 +1,9 @@
-﻿using System;
-using System.Configuration;
+﻿using System.Configuration;
 using System.IO;
 using System.Net.Sockets;
 using System.Threading.Tasks;
 
-namespace DemoProtocol.Connection
+namespace RailwaySimulatorProtocol_Connection
 {
     /// <summary>
     /// Service for subscribing and notifying <paramref name="SettingParametersRecord"/>s about <paramref name="ModelTime"/>.
