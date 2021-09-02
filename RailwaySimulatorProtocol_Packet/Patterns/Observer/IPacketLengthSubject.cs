@@ -2,7 +2,7 @@
 using RailwaySimulatorProtocol_Packet.Records;
 using RailwaySimulatorProtocol_Packet.Records.InformationPart.SettingParameters;
 
-namespace RailwaySimulatorProtocol_Packet.Patterns
+namespace RailwaySimulatorProtocol_Packet.Patterns.Observer
 {
     /// <summary>
     /// Contains methods of attaching, dettaching to a notification about сhanging in <see cref="Packet.Length"/>

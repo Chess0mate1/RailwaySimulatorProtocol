@@ -1,7 +1,7 @@
 ﻿using RailwaySimulatorProtocol_Packet.Connection;
 using RailwaySimulatorProtocol_Packet.PacketInfo;
 
-namespace RailwaySimulatorProtocol_Packet.PS
+namespace RailwaySimulatorProtocol_Packet.PacketSending
 {
     /// <summary>
     /// Contains method for <paramref name="Packet"/> sending

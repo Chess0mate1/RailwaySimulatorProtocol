@@ -9,4 +9,8 @@
     <Folder Include="Records\InformationPart\SettingParameters\Watcher\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\RailwaySimulatorProtocol_Connection\RailwaySimulatorProtocol_Connection.csproj" />
+  </ItemGroup>
+
 </Project>

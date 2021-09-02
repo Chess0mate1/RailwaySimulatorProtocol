@@ -1,7 +1,7 @@
 ﻿using RailwaySimulatorProtocol_Packet.PacketInfo;
 using RailwaySimulatorProtocol_Packet.Records;
 
-namespace RailwaySimulatorProtocol_Packet.Patterns
+namespace RailwaySimulatorProtocol_Packet.Patterns.Observer
 {
     /// <summary>
     /// Contain method for updating <see cref="Packet.Length"/> for all <see cref="Record"/>s-subscribers.
